@@ -1,7 +1,7 @@
 # PPDSP
 A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes
 
-This repository contains algorithms that reproduce the comparative experiments in our submission.
+This repository contains all source code that can reproduce the comparative experiments in our submission.
 
 ## Usage
 
@@ -11,7 +11,7 @@ This repository contains algorithms that reproduce the comparative experiments i
 
 ## Citation
 
-If you want to cite these algorithms, please cite the [preprint](https://doi.org/10.48550/arXiv.2208.14866) introducing them at arXiv:
+If you want to cite this study, please cite the [preprint](https://doi.org/10.48550/arXiv.2208.14866) introducing them at arXiv:
 ```
 @misc{arxiv/ZhaCIN22,
   author = {Zha, Aolong and Chang, Qiong and Imura, Naoto and Nishinari, Katsuhiro},
