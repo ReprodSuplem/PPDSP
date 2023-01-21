@@ -15,8 +15,7 @@ If you want to cite these algorithms, please cite the preprint(https://doi.org/1
 ```
 @misc{arxiv/ZhaCIN22,
   author = {Zha, Aolong and Chang, Qiong and Imura, Naoto and Nishinari, Katsuhiro},
-  keywords = {Discrete Mathematics (cs.DM), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {A case study of the profit-maximizing multi-vehicle pickup and delivery selection problem for the road networks with the integratable nodes},
+  title = {A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes},
   publisher = {arXiv},
   year = {2022},
   copyright = {Creative Commons Attribution 4.0 International},
