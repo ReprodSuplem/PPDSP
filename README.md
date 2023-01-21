@@ -1,5 +1,5 @@
 # PPDSP
-A Case Study of the Profit-Maximizing Multi-Vehicle Pickup and Delivery Selection Problem for the Road Networks with the Integratable Nodes
+A case study of the profit-maximizing multi-vehicle pickup and delivery selection problem for the road networks with the integratable nodes
 
 This repository contains all source code that can reproduce the comparative experiments in our submission.
 
